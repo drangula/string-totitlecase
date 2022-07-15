@@ -1,2 +1,2 @@
 # string-totitlecase
-String Prototype function for title case
+String prototype function for capitalizing the first letter (title)
